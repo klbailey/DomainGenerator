@@ -39,4 +39,4 @@ window.onload = function() {
 
 //Show something on the console and of course it's not showing up in console
 // But I want to console log all 8
-console.log("any string");
+// console.log("any string");
